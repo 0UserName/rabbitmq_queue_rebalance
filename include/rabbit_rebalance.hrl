@@ -1,0 +1,1 @@
+-record(queue_record, {resource, last_consume, interval, exchange}).
